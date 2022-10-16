@@ -5,7 +5,7 @@ import { Welcome } from './src/Screens/index';
 
 export default function App() {
   return (
-    <Welcome />
+    
   );
 }
 
